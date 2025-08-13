@@ -1,0 +1,7 @@
+a DET
+dog NOUN
+blue ADJ
+run VERB
+in PREP
+a DET
+field NOUN
