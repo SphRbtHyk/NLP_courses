@@ -1,0 +1,123 @@
+{
+  "nom": "Médiathèque des Humanités",
+  "adresse": {
+    "ville": "Paris",
+    "code_postal": "75005"
+  },
+  "documents": [
+    {
+      "id": "D001",
+      "titre": "Les Misérables",
+      "auteurs": [
+        "Victor Hugo"
+      ],
+      "type": "roman",
+      "annee": 1862,
+      "disponible": true,
+      "mots_cles": [
+        "roman",
+        "société",
+        "Paris"
+      ]
+    },
+    {
+      "id": "D002",
+      "titre": "Le Deuxième Sexe",
+      "auteurs": [
+        "Simone de Beauvoir"
+      ],
+      "type": "essai",
+      "annee": 1949,
+      "disponible": false,
+      "mots_cles": [
+        "philosophie",
+        "féminisme"
+      ]
+    },
+    {
+      "id": "D003",
+      "titre": "Discours de la méthode",
+      "auteurs": [
+        "René Descartes"
+      ],
+      "type": "essai",
+      "annee": 1637,
+      "disponible": true,
+      "mots_cles": [
+        "philosophie",
+        "méthode"
+      ]
+    },
+    {
+      "id": "D004",
+      "titre": "Germinal",
+      "auteurs": [
+        "Émile Zola"
+      ],
+      "type": "roman",
+      "annee": 1885,
+      "disponible": true,
+      "mots_cles": [
+        "roman",
+        "travail",
+        "société"
+      ]
+    },
+    {
+      "id": "D005",
+      "titre": "Les Structures élémentaires de la parenté",
+      "auteurs": [
+        "Claude Lévi-Strauss"
+      ],
+      "type": "étude",
+      "annee": 1949,
+      "disponible": false,
+      "mots_cles": [
+        "anthropologie",
+        "parenté"
+      ]
+    },
+    {
+      "id": "D006",
+      "titre": "L'Étranger",
+      "auteurs": [
+        "Albert Camus"
+      ],
+      "type": "roman",
+      "annee": 1942,
+      "disponible": true,
+      "mots_cles": [
+        "roman",
+        "absurde"
+      ]
+    },
+    {
+      "id": "D007",
+      "titre": "La Distinction",
+      "auteurs": [
+        "Pierre Bourdieu"
+      ],
+      "type": "étude",
+      "annee": 1979,
+      "disponible": true,
+      "mots_cles": [
+        "sociologie",
+        "culture"
+      ]
+    },
+    {
+      "id": "D008",
+      "titre": "La Femme rompue",
+      "auteurs": [
+        "Simone de Beauvoir"
+      ],
+      "type": "roman",
+      "annee": 1967,
+      "disponible": true,
+      "mots_cles": [
+        "roman",
+        "féminisme"
+      ]
+    }
+  ]
+}
